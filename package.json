@@ -1,0 +1,16 @@
+{
+  "name": "online-test-app-backend-json-server",
+  "version": "1.0.0",
+  "description": "A back-end json server for online-test-application",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server user.json --watch --port=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "NPM"
+  ],
+  "author": "Karabo Pheko",
+  "license": "ISC"
+}

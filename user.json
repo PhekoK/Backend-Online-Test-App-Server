@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1001,
+      "username": "Karabo Pheko",
+      "email": "pheko.karabo@gmail.com"
+    },
+    {
+      "id": 1002,
+      "username": "Bhawna Gunwani",
+      "email": "gunwani.bhawna@gmail.com"
+    },
+    {
+      "id": 1003,
+      "username": "John Doe",
+      "email": "doe.john@gmail.com"
+    },
+    {
+      "username": "Kabo",
+      "email": "gy@gmail.com",
+      "password": "1234",
+      "id": 1004
+    },
+    {
+      "username": "Kabo",
+      "email": "phekokabo97@gmail.com",
+      "password": "1234",
+      "id": 1005
+    },
+    {
+      "username": "Sedi",
+      "email": "phekokabo97@gmail.com",
+      "password": "123",
+      "id": 1006
+    },
+    {
+      "username": "Man",
+      "email": "man@gmail.com",
+      "password": "12",
+      "id": 1007
+    }
+  ]
+}
